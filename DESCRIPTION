@@ -1,0 +1,14 @@
+Package: AirwayClusteringPackage2
+Title: Reproducible package for the airway clustering results 
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rani",
+           family = "Basna",
+           role = c("aut", "cre"),
+           email = "ranibasna@gmail.com")
+Description: The goal of ClusteringAirwayWsasOlin is to bulding a clustering method for phenotyping Airway Disease 
+projects for WSAS and OLIN data sets.
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
