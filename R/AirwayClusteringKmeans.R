@@ -14,4 +14,6 @@ AirwaClusteringKmeans  <- function(original_raw_data){
 }
 
 
-
+#testing should be deleated after that
+#original_data <-  read.csv('/Users/xbasra/Documents/Data/Airway_Clustering/Original_Data/Airway Disease Phenotyping Data Sets5/WSAS And OLIN Airway Disease Phenotyping.csv')
+#airway_k <- AirwaClusteringKmeans(original_data)
